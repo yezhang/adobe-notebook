@@ -45,6 +45,11 @@ rebooting, or from the Force Quit dialog):
 defaults write /Users/<username>/Library/Preferences/com.adobe.CSXS.11.plist PlayerDebugMode 1
 ```
 
+或执行：
+```
+defaults write com.adobe.CSXS.11 PlayerDebugMode 1
+```
+
 On Windows, make the following registry entry (a new Key, of type String):
 
 ![Registry image](payloads/Registry.png)

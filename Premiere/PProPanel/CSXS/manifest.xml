@@ -38,11 +38,11 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 				</Lifecycle>
 				<UI>
 					<Type>Panel</Type>
-					<Menu>PProPanel (SDK sample panel)</Menu>
+					<Menu>AdobeNodebook</Menu>
 					<Geometry>
 						<Size>
 							<Height>300</Height>
-							<Width>180</Width>
+							<Width>300</Width>
 						</Size>
 					</Geometry>
 				</UI>
